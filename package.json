@@ -1,0 +1,27 @@
+{
+  "name": "imooc-micro-web",
+  "private": true,
+  "description": "从 0 打造微前端框架，实战汽车资讯平台",
+  "scripts": {
+    "commit": "git cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bi8bo-xx/imooc-micro-web.git"
+  },
+  "author": "Bi8bo-xx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bi8bo-xx/imooc-micro-web/issues"
+  },
+  "homepage": "https://github.com/Bi8bo-xx/imooc-micro-web#readme",
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0"
+  }
+}
