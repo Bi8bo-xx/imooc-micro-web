@@ -21,6 +21,7 @@
     }
   },
   "devDependencies": {
+    "@vue/cli": "^4.5.15",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0"
   }
